@@ -11,7 +11,7 @@
  * @license   http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
 
-namespace Hybrid\View\Contracts;
+namespace Backdrop\View\Contracts;
 
 /**
  * View interface.
